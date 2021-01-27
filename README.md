@@ -1,3 +1,2 @@
-# blog
+[Wiki Home](https://github.com/wangsying/blog/wiki)
 
-https://github.com/wangsying/blog/wiki
